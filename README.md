@@ -1,5 +1,4 @@
 # backend-game-military-corps-project
-Military Corps: Game Backend Engine
 Selamat datang di repository resmi untuk backend Military Corps Project. Repository ini adalah inti dari sistem logika, arsitektur, dan database yang mendukung jalannya game ini.
 
 Tentang Proyek
