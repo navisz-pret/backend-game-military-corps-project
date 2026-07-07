@@ -1,0 +1,14 @@
+# Folder hasil compile (jangan di-upload)
+*.exe
+*.o
+*.obj
+*.out
+
+# Folder sistem VS Code
+.vscode/
+
+# Folder atau file sampah sistem
+bin/
+obj/
+*.log
+.DS_Store
