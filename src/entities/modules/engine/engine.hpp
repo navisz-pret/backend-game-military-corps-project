@@ -1,7 +1,7 @@
 // src/entities/modules/base-engine/Engine.hpp
 #ifndef ENGINE_HPP
 #define ENGINE_HPP
-#include "Module.hpp"
+#include "module.hpp"
 #include <iostream>
 
 class Engine : public Module {

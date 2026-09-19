@@ -1,5 +1,5 @@
 // src/entities/modules/weapon/Weapon.hpp
-#include "Module.hpp"
+#include "module.hpp"
 #include <iostream>
 
 class Weapon : public Module {

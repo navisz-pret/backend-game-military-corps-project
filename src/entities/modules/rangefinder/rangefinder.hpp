@@ -1,7 +1,7 @@
 #ifndef SENSOR_RANGEFINDER_HPP
 #define SENSOR_RANGEFINDER_HPP
 
-#include "Module.hpp"
+#include "module.hpp"
 #include <iostream>
 
 class Rangefinder : public Module { // Pastikan ada 'public'
